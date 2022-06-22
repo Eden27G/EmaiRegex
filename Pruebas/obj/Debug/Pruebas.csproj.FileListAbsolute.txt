@@ -1,0 +1,7 @@
+C:\Users\gr22_\source\repos\Pruebas\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\gr22_\source\repos\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\gr22_\source\repos\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\gr22_\source\repos\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.AssemblyReference.cache
+C:\Users\gr22_\source\repos\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\gr22_\source\repos\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\gr22_\source\repos\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
