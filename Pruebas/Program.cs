@@ -15,7 +15,7 @@ namespace Pruebas
             Regex emailRegex = new Regex(@"^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$");
             if (emailRegex.IsMatch(correo))
             {
-                Console.WriteLine("si");
+                Console.WriteLine("SÍ");
             }
             else 
             {

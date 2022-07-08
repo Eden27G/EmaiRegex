@@ -5,3 +5,10 @@ C:\Users\gr22_\source\repos\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.AssemblyRef
 C:\Users\gr22_\source\repos\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
 C:\Users\gr22_\source\repos\Pruebas\Pruebas\obj\Debug\Pruebas.exe
 C:\Users\gr22_\source\repos\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\egarciar\Desktop\EmaiRegex\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\egarciar\Desktop\EmaiRegex\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\egarciar\Desktop\EmaiRegex\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\egarciar\Desktop\EmaiRegex\Pruebas\obj\Debug\Pruebas.csproj.AssemblyReference.cache
+C:\Users\egarciar\Desktop\EmaiRegex\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\egarciar\Desktop\EmaiRegex\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\egarciar\Desktop\EmaiRegex\Pruebas\obj\Debug\Pruebas.pdb
